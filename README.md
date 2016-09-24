@@ -1,6 +1,6 @@
 ## Bootstrap Gallery Legacy skin for b2evolution CMS v6.
 
-![](skinshot.png)
+![](skinshot.jpg)
 
 ### Update Log:
 
